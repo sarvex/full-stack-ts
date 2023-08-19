@@ -893,7 +893,7 @@ __metadata:
     "@types/react-dom": ^17.0.14
     add: ^2.0.6
     date-fns: ^2.28.0
-    graphql: ^15.0.0
+    graphql: ^16.8.0
     graphql-tag: ^2.0.0
     parcel: ^2.3.2
     react: ^17.0.2
@@ -931,7 +931,7 @@ __metadata:
     concurrently: ^8.2.0
     execa: ^5.0.0
     express: ^4.17.3
-    graphql: ^15.0.0
+    graphql: ^16.8.0
     lowdb: ^1.0.0
     nodemon: ^2.0.15
     pkg-up: ^4.0.0
@@ -5893,10 +5893,10 @@ __metadata:
   languageName: node
   linkType: hard
 
-"graphql@npm:^15.0.0":
-  version: 15.8.0
-  resolution: "graphql@npm:15.8.0"
-  checksum: 423325271db8858428641b9aca01699283d1fe5b40ef6d4ac622569ecca927019fce8196208b91dd1d8eb8114f00263fe661d241d0eb40c10e5bfd650f86ec5e
+"graphql@npm:^16.8.0":
+  version: 16.8.0
+  resolution: "graphql@npm:16.8.0"
+  checksum: d853d4085b0c911a7e2a926c3b0d379934ec61cd4329e70cdf281763102f024fd80a97db7a505b8b04fed9050cb4875f8f518150ea854557a500a0b41dcd7f4e
   languageName: node
   linkType: hard
 
