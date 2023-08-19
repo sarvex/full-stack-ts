@@ -13,7 +13,7 @@
     "dev": "tsc --watch --preserveWatchOutput"
   },
   "volta": {
-    "node": "14.19.1",
+    "node": "14.21.3",
     "yarn": "1.22.19"
   },
   "devDependencies": {
