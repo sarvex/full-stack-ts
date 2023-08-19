@@ -941,7 +941,7 @@ __metadata:
     execa: ^8.0.0
     express: ^4.17.3
     graphql: ^16.8.0
-    lowdb: ^1.0.0
+    lowdb: ^6.0.1
     nodemon: ^2.0.15
     pkg-up: ^4.0.0
     rimraf: ^3.0.2
@@ -6307,7 +6307,7 @@ __metadata:
   languageName: node
   linkType: hard
 
-"graceful-fs@npm:^4.1.2, graceful-fs@npm:^4.1.3":
+"graceful-fs@npm:^4.1.2":
   version: 4.2.9
   resolution: "graceful-fs@npm:4.2.9"
   checksum: 68ea4e07ff2c041ada184f9278b830375f8e0b75154e3f080af6b70f66172fabb4108d19b3863a96b53fc068a310b9b6493d86d1291acc5f3861eb4b79d26ad6
@@ -7583,7 +7583,7 @@ __metadata:
   languageName: node
   linkType: hard
 
-"lodash@npm:4, lodash@npm:^4.17.20, lodash@npm:^4.17.21, lodash@npm:~4.17.0":
+"lodash@npm:^4.17.20, lodash@npm:^4.17.21, lodash@npm:~4.17.0":
   version: 4.17.21
   resolution: "lodash@npm:4.17.21"
   checksum: eb835a2e51d381e561e508ce932ea50a8e5a68f4ebdd771ea240d3048244a8d13658acbd502cd4829768c56f2e16bdd4340b9ea141297d472517b83868e677f7
@@ -7645,16 +7645,12 @@ __metadata:
   languageName: node
   linkType: hard
 
-"lowdb@npm:^1.0.0":
-  version: 1.0.0
-  resolution: "lowdb@npm:1.0.0"
+"lowdb@npm:^6.0.1":
+  version: 6.0.1
+  resolution: "lowdb@npm:6.0.1"
   dependencies:
-    graceful-fs: ^4.1.3
-    is-promise: ^2.1.0
-    lodash: 4
-    pify: ^3.0.0
-    steno: ^0.4.1
-  checksum: 7ae89e3d6e00963129f72c4d4e1fe8e4cda5c08a46b4f4e525109483147e799df90c07d95aeced1c270cc10f4a24c6660fe1601cc4b3a6e2c3f922ad64517eab
+    steno: ^3.0.0
+  checksum: d555a5bcc2e4a963fae89209b693a6f2b7b69bae915ff67355537b7a14a4f6e44bc273467bc3d4d7e81660c1313587ee3bfebf044d50d3213a5e95ea7f07ded4
   languageName: node
   linkType: hard
 
@@ -8846,13 +8842,6 @@ __metadata:
   version: 2.3.1
   resolution: "picomatch@npm:2.3.1"
   checksum: 050c865ce81119c4822c45d3c84f1ced46f93a0126febae20737bd05ca20589c564d6e9226977df859ed5e03dc73f02584a2b0faad36e896936238238b0446cf
-  languageName: node
-  linkType: hard
-
-"pify@npm:^3.0.0":
-  version: 3.0.0
-  resolution: "pify@npm:3.0.0"
-  checksum: 6cdcbc3567d5c412450c53261a3f10991665d660961e06605decf4544a61a97a54fefe70a68d5c37080ff9d6f4cf51444c90198d1ba9f9309a6c0d6e9f5c4fde
   languageName: node
   linkType: hard
 
@@ -10118,12 +10107,10 @@ __metadata:
   languageName: node
   linkType: hard
 
-"steno@npm:^0.4.1":
-  version: 0.4.4
-  resolution: "steno@npm:0.4.4"
-  dependencies:
-    graceful-fs: ^4.1.3
-  checksum: 87df4121cf8159fceb3dc925111aff1e237bdea2d37f6684eabbcdea63bfcff79b3234f2a61ffe8de5cf17fcb97e2cf09075a2a98993251f79e2868fe0d5ba1e
+"steno@npm:^3.0.0":
+  version: 3.0.0
+  resolution: "steno@npm:3.0.0"
+  checksum: fb928451a4f96342b496b71147fbca0a20a5daf7bfd23a4a1cec8640d3c6c67176809169e9a5801ea44490d448b5b7ecb151b9fba434872c2d65549847f39460
   languageName: node
   linkType: hard
 
