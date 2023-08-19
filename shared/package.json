@@ -14,7 +14,7 @@
   },
   "volta": {
     "node": "14.19.1",
-    "yarn": "1.22.18"
+    "yarn": "1.22.19"
   },
   "devDependencies": {
     "rimraf": "^5.0.1"
