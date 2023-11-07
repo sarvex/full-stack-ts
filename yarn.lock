@@ -2394,9 +2394,9 @@
   integrity sha512-MqTGEo5bj5t157U6fA/BiDynNkn0YknVdh48CMPkTSpFTVmvao5UQmm7uEF6xBEo7qIMAlY/JSleYaE6VOdpaA==
 
 "@types/lowdb@^1.0.11":
-  version "1.0.14"
-  resolved "https://registry.yarnpkg.com/@types/lowdb/-/lowdb-1.0.14.tgz#966f79e444767c9192a27f567699d0d8cd7d215c"
-  integrity sha512-t34ssKfsqGYnRCjkDOMUsLQb4yfuYV6Fl6iJqU2RIiAxuzlvlrMNdMUa86fguWLCt6RFnId2G5pnSIMJ28McnQ==
+  version "1.0.15"
+  resolved "https://registry.yarnpkg.com/@types/lowdb/-/lowdb-1.0.15.tgz#c1d1859db89bcec2741b6c95f28c16f01472228b"
+  integrity sha512-xaMNIveDCryK4UvnUJOc2BCOH0lPivdvWHrutsLryo9r9Id3RqZq2RDmT4eddiEPYzu7nJMw6nFIcVifcqjWqg==
   dependencies:
     "@types/lodash" "*"
 
