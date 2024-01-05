@@ -2150,12 +2150,12 @@
     "@parcel/utils" "2.10.3"
     react-refresh "^0.9.0"
 
-"@parcel/transformer-sass@2.10.3":
-  version "2.10.3"
-  resolved "https://registry.yarnpkg.com/@parcel/transformer-sass/-/transformer-sass-2.10.3.tgz#1630c7a9e730a3ba341337bd5166025f6c3aea57"
-  integrity sha512-Q8pTsMO+YuczBjmW8NdFcUjYpCdvY6EzYhPYw4eTyvldalGkaUVs1mJoKmWDHIDsIpdiaARxTpXP946B9cgE3w==
+"@parcel/transformer-sass@2.11.0":
+  version "2.11.0"
+  resolved "https://registry.yarnpkg.com/@parcel/transformer-sass/-/transformer-sass-2.11.0.tgz#8ae922d6af3dca53297ca83c8dc78182994dcdba"
+  integrity sha512-caVIj1UANPgtlZOXcsBrQ++ouAy04hcq+wTwxJrf5t3XA4pdXQmkiLs5WIIUUGBp5hwkV6/BSwc4ht87MunA0g==
   dependencies:
-    "@parcel/plugin" "2.10.3"
+    "@parcel/plugin" "2.11.0"
     "@parcel/source-map" "^2.1.1"
     sass "^1.38.0"
 
