@@ -1171,9 +1171,9 @@
     tslib "^2.4.0"
 
 "@graphql-tools/merge@^9.0.0", "@graphql-tools/merge@^9.0.1":
-  version "9.0.1"
-  resolved "https://registry.yarnpkg.com/@graphql-tools/merge/-/merge-9.0.1.tgz#693f15da152339284469b1ce5c6827e3ae350a29"
-  integrity sha512-hIEExWO9fjA6vzsVjJ3s0cCQ+Q/BEeMVJZtMXd7nbaVefVy0YDyYlEkeoYYNV3NVVvu1G9lr6DM1Qd0DGo9Caw==
+  version "9.0.2"
+  resolved "https://registry.yarnpkg.com/@graphql-tools/merge/-/merge-9.0.2.tgz#97996c34ce1b9e638aa6a5efbd78ad7d2378412e"
+  integrity sha512-GzW1e/P+SSneFC0N3549Kvaq5h/lwTSQ0m0/zvAopzC2CzjTJgm49mb0QhSYE7u/nP/N+qgCUeBn8sYSGj1sgA==
   dependencies:
     "@graphql-tools/utils" "^10.0.10"
     tslib "^2.4.0"
