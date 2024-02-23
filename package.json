@@ -35,7 +35,7 @@
     "@parcel/core": "^2.3.2",
     "@parcel/transformer-sass": "2.11.0",
     "@typescript-eslint/eslint-plugin": "^7.0.0",
-    "@typescript-eslint/parser": "^6.4.0",
+    "@typescript-eslint/parser": "^7.0.2",
     "concurrently": "^8.2.0",
     "eslint": "^8.11.0",
     "eslint-plugin-node": "^11.1.0",
