@@ -21,9 +21,9 @@
   integrity sha512-F17/vCp7QVwom9eG7ToauIKdAxpSoadsJnqIfyryLFSkLSOEqu+eC5Z3N8OXcUVStuOMcNHlyraRsA6rRICu4g==
 
 "@apollo/client@^3.5.10":
-  version "3.11.3"
-  resolved "https://registry.yarnpkg.com/@apollo/client/-/client-3.11.3.tgz#f7e2c6c5166da3194b9d6c40e05b1d43f3cc7d0a"
-  integrity sha512-bocd9vQc9PSq4MG6129HKF8ujUirVod98he9OEWpyOs5CXnUC81zNRaUshA4wPSflR6mnx0yRuRankp1V8A+og==
+  version "3.11.6"
+  resolved "https://registry.yarnpkg.com/@apollo/client/-/client-3.11.6.tgz#85e2602e0fc9caf0afae89b454e5d59588b758c6"
+  integrity sha512-7Yh71ZhkVwJ+7L5lUDw3H7phfn/KCD++UvZpMM+jiKzQNhocGOuIhSTnw6vGds9HwjWfpUvSwX46v/5XVcTzrw==
   dependencies:
     "@graphql-typed-document-node/core" "^3.1.1"
     "@wry/caches" "^1.0.0"
